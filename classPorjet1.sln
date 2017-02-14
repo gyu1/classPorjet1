@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "classPorjet1", "classPorjet1\classPorjet1.sfproj", "{AB6BD009-D4C1-43FC-804A-06EFC051C510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1", "Actor1\Actor1.csproj", "{D325A607-9BB2-4C62-A2CB-E3C30F203081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1.Interfaces", "Actor1.Interfaces\Actor1.Interfaces.csproj", "{3774651A-3DF9-4E01-BF77-3A3F4284EB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Debug|x64.ActiveCfg = Debug|x64
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Debug|x64.Build.0 = Debug|x64
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Debug|x64.Deploy.0 = Debug|x64
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Release|x64.ActiveCfg = Release|x64
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Release|x64.Build.0 = Release|x64
+		{AB6BD009-D4C1-43FC-804A-06EFC051C510}.Release|x64.Deploy.0 = Release|x64
+		{D325A607-9BB2-4C62-A2CB-E3C30F203081}.Debug|x64.ActiveCfg = Debug|x64
+		{D325A607-9BB2-4C62-A2CB-E3C30F203081}.Debug|x64.Build.0 = Debug|x64
+		{D325A607-9BB2-4C62-A2CB-E3C30F203081}.Release|x64.ActiveCfg = Release|x64
+		{D325A607-9BB2-4C62-A2CB-E3C30F203081}.Release|x64.Build.0 = Release|x64
+		{3774651A-3DF9-4E01-BF77-3A3F4284EB29}.Debug|x64.ActiveCfg = Debug|x64
+		{3774651A-3DF9-4E01-BF77-3A3F4284EB29}.Debug|x64.Build.0 = Debug|x64
+		{3774651A-3DF9-4E01-BF77-3A3F4284EB29}.Release|x64.ActiveCfg = Release|x64
+		{3774651A-3DF9-4E01-BF77-3A3F4284EB29}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
