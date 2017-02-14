@@ -32,7 +32,7 @@ namespace Actor1
         }
 
         /// <summary>
-        /// This method is called whenever an actor is activated. tet
+        /// This method is called whenever an actor is activated. test build
         /// An actor is activated the first time any of its methods are invoked.
         /// </summary>
         protected override Task OnActivateAsync()
